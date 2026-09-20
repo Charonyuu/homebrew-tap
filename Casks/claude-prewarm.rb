@@ -1,6 +1,6 @@
 cask "claude-prewarm" do
-  version "1.0.0"
-  sha256 "ccaab7022fb68f78b11158c83c7e81dcbde72f777c778d420481e66df15aa011"
+  version "1.0.1"
+  sha256 "89847bd9a477d51b5d3acca66d4d7f2977c3a0cf2ba455b7e37142cf14bd7df1"
 
   url "https://github.com/Charonyuu/Claude-prewarm/releases/download/v#{version}/Claude.Prewarm.#{version}.dmg"
   name "Claude Prewarm"
