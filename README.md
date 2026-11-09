@@ -1,8 +1,8 @@
 # Charonyuu's Homebrew tap
 
 ```bash
-brew tap Charonyuu/tap
-brew install --cask prewarm
+brew trust charonyuu/tap
+brew install --cask charonyuu/tap/prewarm
 ```
 
 ## Casks
