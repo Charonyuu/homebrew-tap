@@ -1,6 +1,6 @@
 cask "prewarm" do
-  version "2.0.0"
-  sha256 "170ba4c911b1a1b0c94682c61429245c038e28c35bbd88bf230a7ab5954f1655"
+  version "2.0.1"
+  sha256 "94045e3545ad5c0f841296129300d0c937ead769a9451603b90ea01baac46136"
 
   url "https://github.com/Charonyuu/prewarm/releases/download/v#{version}/Prewarm.#{version}.dmg"
   name "Prewarm"
